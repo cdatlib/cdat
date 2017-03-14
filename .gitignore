@@ -1,0 +1,46 @@
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
+*.swp
+*.idx
+main
+main_sdsl
+genome/
+bin
+bin/*
+*.idea
+images
+results
+share
+externals/sdsl-lite/
+lib
+CMakeFiles
+CMakeCache.txt
+cmake_install.cmake
+CPack*
+Makefile*
+*.log
+*.pdf
+*.toc
+*.aux
+sdsl-lite
+*.bbl
+*.blg
