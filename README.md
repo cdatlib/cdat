@@ -5,7 +5,7 @@ Library has 3 dependencies:
 
     1. CMake
     2. Boost program options
-    3. SDSL - provided in directory externals [https://github.com/simongog/sdsl-lite](https://github.com/simongog/sdsl-lite)
+    3. SDSL - provided in directory externals (https://github.com/simongog/sdsl-lite)
 
 On Ubuntu you can install appropriate packages by typing:
 
